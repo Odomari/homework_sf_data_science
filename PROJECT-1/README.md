@@ -23,6 +23,7 @@ It`s a first real data-science project. We practice our skills in transform data
 - Project_1.ipynb - notebook file with code, completed tasks and graphs;
 - dst-3.0_16_1_hh_database.csv - dataset with vacancies from hh.ru (https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing);
 - ExchangeRates.csv - file with exchange rates for the period from 12/29/2017 to 12/05/2019 (https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip)
+- graphics - folder with graphics
 
 :arrow_up:[to contents](https://github.com/Odomari/homework_sf_data_science/tree/master/PROJECT-1/README.md#Contents)
 
