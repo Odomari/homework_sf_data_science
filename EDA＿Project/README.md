@@ -38,7 +38,7 @@ The real practice of EDA.
 :arrow_up:[to contents](https://github.com/Odomari/homework_sf_data_science/tree/master/EDA%EF%BC%BFProject/README.md#Contents)
 
 ### Result
-We created our first machine learning case: we cleaned a rather heavily polluted dataset ourselves, extracted several new features from it, and prepared data for model training. We also took part in the machine learning competition.
+We created our first machine learning case: we cleaned a rather heavily polluted dataset ourselves, extracted several new features from it, and prepared data for model training. We also took part in the machine learning competition (https://www.kaggle.com/code/otomari/eda-project).
 
 :arrow_up:[to contents](https://github.com/Odomari/homework_sf_data_science/tree/master/EDA%EF%BC%BFProject/README.md#Contents)
 
