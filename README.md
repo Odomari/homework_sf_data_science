@@ -10,3 +10,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [PROJECT-1. Vacancy analysis](https://github.com/Odomari/homework_sf_data_science/tree/master/PROJECT-1)
 
 * [EDA__Project. Booking reviews](https://github.com/Odomari/homework_sf_data_science/tree/master/EDA%EF%BC%BFProject)
+
+* [Hyperparameters_training] (https://github.com/Odomari/homework_sf_data_science/tree/master/Hyperparameters_training)
