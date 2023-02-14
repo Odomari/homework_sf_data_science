@@ -11,4 +11,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [EDA__Project. Booking reviews](https://github.com/Odomari/homework_sf_data_science/tree/master/EDA%EF%BC%BFProject)
 
-* [Hyperparameters_training] (https://github.com/Odomari/homework_sf_data_science/tree/master/Hyperparameters_training)
+* [Hyperparameters_training](https://github.com/Odomari/homework_sf_data_science/tree/master/Hyperparameters_training)
