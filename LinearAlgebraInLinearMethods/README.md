@@ -17,7 +17,7 @@ It's necessary to predict a gas production at wells.
 We need to build the best linear regression model predicting a gas production.
 
 **What we practice**
-- Linear regression models are built using the least squares method;
+- Linear regression models are built using the OLS;
 - Features are searched for that are highly correlated with each other and with the target feature;
 - Special attention is paid to overfitting models and how regularization eliminates overfitting of models.
 
@@ -29,7 +29,7 @@ We need to build the best linear regression model predicting a gas production.
 
 ### Stages of work on the task
 - reading data;
-- linear regression by LSM (Least Squareы Method);
+- linear regression by OLS;
 - polynomial regression;
 - regression by regularization on polynomial features.
 
@@ -41,7 +41,7 @@ There were built 5 linear regression's models: usual linear regression, linear r
 :arrow_up:[to contents](https://github.com/Odomari/homework_sf_data_science/tree/master/LinearAlgebraInLinearMethods/README.md#Contents)
 
 ### Conclusions
-- We understood the role of the least squares method in building a linear regression model;
+- We understood the role of the OLS in building a linear regression model;
 - We understood the difference between collinearity and multicollinearity;
 - We found out what relationship exists between the determinant of a matrix built from features, the linear dependence of features among themselves, as well as with the target variable, and how they affect the prediction of the model;
 - We saw what regularization does to prediction error from a mathematical point of view.
