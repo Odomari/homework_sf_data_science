@@ -11,7 +11,7 @@
 ### Описание задачи
 Построить модель МО, которая будет на основе предложенных характеристик предсказывать общую продолжительность поездки такси в Нью-Йорке.
 
-:arrow_up:[to Содержание](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
+:arrow_up:[к содержанию](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
 
 ### Какую проблему решаем?
 Предсказать общую продолжительность поездки такси, то есть решить задачу регрессии.
@@ -28,7 +28,7 @@
 - train.csv - тренировочный датасет (https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view?usp=sharing);
 - weather_data.csv - набор данных, содержащий информацию о погодных условиях в Нью-Йорке в 2016 году (https://lms.skillfactory.ru/assets/courseware/v1/0f6abf84673975634c33b0689851e8cc/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/weather_data.zip)
 
-:arrow_up:[to Содержание](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
+:arrow_up:[к содержанию](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
 
 ### Этапы работы над задачей
 - формирование набора данных на основе нескольких источников информации;
@@ -37,7 +37,7 @@
 - построение нескольких моделей и выбор из них наилучшей по заданной метрике;
 - проектирование процесса предсказания времени длительности поездки для новых данных
 
-:arrow_up:[to Содержание](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
+:arrow_up:[к содержанию](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
 
 ### Результат
 Для решения задачи были построены несколько моделей МО:
@@ -50,9 +50,9 @@
 - модель экстремального градиентного бустинга.
 После обучения этих моделей на тренировочном наборе данных и проверке их качества стало понятно, что самыми эффективными моделями среди построенных моделей оказались модели градиентного бустинга. Их ошибка предсказания (в качестве метрики качества использовалась метрика RMSLE (Root Mean Squared Log Error)) составила примерно 0.39. А медианная абсолютная ошибка (MeAE) модели градиентного бустинга над решающими деревьями составила 1.8 секунды.
 
-:arrow_up:[to Содержание](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
+:arrow_up:[к содержанию](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
 
 ### Выводы
 Мы справились с настоящим проектом, решив важную и актуальную задачу. Теперь мы можем решить полноценную задачу регрессии, начиная от предобработки данных и заканчивая оценкой качества построенных моделей и отбора наиболее значимых факторов.
 
-:arrow_up:[to Содержание](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
+:arrow_up:[к содержанию](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5/README.md#Contents)
