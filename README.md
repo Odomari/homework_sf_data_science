@@ -18,3 +18,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Project-5. New York City Taxi Trip Duration](https://github.com/Odomari/homework_sf_data_science/tree/master/Project-5)
 
 * [Project-6. Customer segmentation](https://github.com/Odomari/homework_sf_data_science/tree/master/Customer_segmentation)
+
+* [Vulnerable_populations](https://github.com/Odomari/homework_sf_data_science/tree/master/vulnerable_populations)
